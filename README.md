@@ -1,5 +1,5 @@
 # React Movie App - ReactJS Projects
-
+link: (https://rudrojuvikas.github.io/react-movie-app/)
 ![](movie.gif)
 
 ### APIs Used
